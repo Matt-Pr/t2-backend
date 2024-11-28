@@ -1,0 +1,10 @@
+Login :
+{
+    "emailusername": "voidvoid",
+    "password": "voidvoid"
+}
+User edit:
+{
+    "username": "new_username",
+    "email": "newemail@example.com"
+}
